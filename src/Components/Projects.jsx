@@ -7,6 +7,7 @@ import CardComponents from "../assets/Cardcomponents.png";
 import quizapplication from "../assets/quizapplication.png";
 import vuvamontenzi from "../assets/vuvamontenzi.png";
 import zioncafe from "../assets/zioncafe.png"; 
+import matthewsheldonim from "../assets/matthewsheldonim.png"
 import { NavLink } from "react-router";
 
 function Projects() {
@@ -56,9 +57,9 @@ function Projects() {
       tags: ["React", "Responsive Design", "Tailwind CSS","JavaScript"],
     },
       {
-      title: "online-quiz-application",
+      title: "Montenzi",
       description:
-        "Montenzi is a modern lifestyle and fashion brand dedicated to providing a curated selection of premium apparel and footwear, bridging the gap between everyday comfort and contemporary style.",
+        " Montenzi is a modern lifestyle and fashion brand specializing in premium apparel and footwear that bridges the gap between everyday comfort and contemporary style.",
       image:vuvamontenzi,
       link: "https://matthewsheldon34.github.io/Montenzi/",
       tags: ["React", "Responsive Design", "Tailwind CSS","JavaScript"],
@@ -67,17 +68,17 @@ function Projects() {
       {
       title: "Zion Cafe",
       description:
-        "Montenzi is a modern lifestyle and fashion brand dedicated to providing a curated selection of premium apparel and footwear, bridging the gap between everyday comfort and contemporary style.",
+        "Zion Coffee Restaurant (also known as Zion Coffee Shop is a cozy dining spot located at Victory City Church in Ntinda, Kampala. Known for its warm, welcoming community atmosphere and customer-first care, the restaurant blends local favorites with international dishes and comforting beverages.",
       image:zioncafe,
       link: "https://matthewsheldon34.github.io/zion/",
       tags: ["React", "Responsive Design", "Tailwind CSS","JavaScript"],
     },
       {
-      title: "Zion Cafe",
+      title: "Matt Sheldon",
       description:
-        "Montenzi is a modern lifestyle and fashion brand dedicated to providing a curated selection of premium apparel and footwear, bridging the gap between everyday comfort and contemporary style.",
-      image:zioncafe,
-      link: "https://matthewsheldon34.github.io/zion/",
+        "Matt Sheldon is the professional portfolio website of Matthew Sheldon, a junior web developer based in Kampala, Uganda.",
+      image:matthewsheldonim ,
+      link: "https://matthewsheldon34.github.io/mattsheldon/",
       tags: ["React", "Responsive Design", "Tailwind CSS","JavaScript"],
     },
   ];
